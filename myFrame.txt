@@ -143,19 +143,19 @@
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="pic1.jpg" style="width:80%; height:80%">
+  <img src="IMG_4611.jpeg" style="width:80%; height:80%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="pic2.jpg" style="width:80%; height:80%">
+  <img src="IMG_4610.jpeg" style="width:80%; height:80%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <a href="activity3.html"> <img src="pic3.jpg" style="width:80%; height:80%"> </a>
+  <a href="activity3.html"> <img src="IMG_4605.jpeg" style="width:80%; height:80%"> </a>
   <div class="text">Caption Three</div>
 </div>
 
@@ -210,7 +210,7 @@ function showSlides(n) {
   <div class="header"><h2>My Header</h2></div>
   <div class="menu">Torism sites links<Br><a href="#">Link 1</a><br><a href="#">Link 2</a><br><a href="#">Link 3</a></div>
   <div class="content"> <p>text</p></div>
-  <div class="imagecol"> <p>image</p> <img src="pic1.jpg" style="width:30%; height:30%"></div>
+  <div class="imagecol"> <p>image</p> <img src="IMG_4611.jpeg" style="width:30%; height:30%"></div>
   <div class="moretext"> <p>text</p></div>
   <div class="tablecol"> <p>Torism sites in Pattani
         <table style="width:100%" border=2>
@@ -229,7 +229,22 @@ function showSlides(n) {
 				<td>Yaring District, Pattani province</td>
 				<td><a href="https://www.google.com/maps/place/Talo+Kapo+Beach/@6.8989193,101.3684039,17z/data=!3m1!4b1!4m6!3m5!1s0x31b3aa45ecdef2af:0xb7dcdcb704ac0d36!8m2!3d6.898914!4d101.3709842!16s%2Fg%2F1w04glvs?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D"> Talo Kapho Beach </a></td>
 			</tr>
-		</table>
+		        <tr>
+				<td>phrubakoy</td>
+				<td>mueang District, Yala province</td>
+				<td><a href="https://www.google.com/maps/dir/6.8842664,101.2410448/G7VF%2BXJW+สวนขวัญเมือง+สะเตง+อำเภอเมืองยะลา+ยะลา+95000/@6.7179036,101.0961409,11z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x31b3753759ecf1a1:0xe294baceb1a67a8d!2m2!1d101.2740631!2d6.5449957?hl=th-th&entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D">prhubakoy</td>
+			</tr>
+		  <tr>
+				<td>prince of songkla university</td>
+				<td>mueang District, pattani province</td>
+				<td><a href="https://maps.app.goo.gl/Cypihrok3Y1LSwLf6?g_st=ic">prince of songkla university</td>
+			</tr>
+<tr>
+				<td>narathat beach</td>
+				<td>mueang District, narathiwat province</td>
+				<td><a href="https://maps.app.goo.gl/6hESu2kV4g5c9wu89?g_st=com.google.maps.preview.copy">narathat beach</td>
+			</tr>
+	</table>
 	   
 	   
 	   
@@ -238,14 +253,3 @@ function showSlides(n) {
   <div class="moretext2"> <p>text</p></div>
   <div class="footer"><h4>Footer</h4></div>
 </div>
-
-	
-	
-	<br>
-	<br><br>
-	<br><br>
-The Detail of our contents, there are many types of documents such as texts, sounds, movies, animations, pictures, tables, forms, lists, menus and slides.
-<footer>Contact us <a href="mailto:aaaaakom@yahoo.com">Email to: aaaaakom@yahoo.com</a> </footer>
-</body>
-
-</html>
